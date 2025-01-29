@@ -13,7 +13,7 @@ The **Lead Management Dashboard** is a dynamic and interactive Power BI report d
 
 ## **Tech Stack**
 - **Power BI** – Data visualization and interactive reporting  
-- **Data Source** – CSV file (**lead-export-23306dc0-da2b-11ef-af14-ed35fb7a9da3.csv**, uploaded in this repository)  
+- **Data Source** – CSV file (**lead-data.csv**, uploaded in this repository)  
 - **Data Transformation** – Power Query & DAX  
 - **Deployment** – Power BI Service / Embedded Dashboard  
 

@@ -23,7 +23,7 @@ This project includes a dataset file named **cosmetics.csv**, which contains sam
 ## **How to Use**
 1. **Download the Power BI Report (.pbix file)** from the repository.
 2. Open it in **Power BI Desktop**.
-3. Connect your data source (update the dataset with **cosmetics.csv** or another file).
+3. Connect your data source (lead.csv).
 4. Refresh the data and explore the interactive visuals.
 5. Publish to **Power BI Service** for web sharing.
 

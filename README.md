@@ -13,19 +13,18 @@ The **Lead Management Dashboard** is a dynamic and interactive Power BI report d
 
 ## **Tech Stack**
 - **Power BI** – Data visualization and interactive reporting  
-- **Data Source** – CSV file (**lead-data.csv**, uploaded in this repository)  
+- **Data Source** – CSV file (uploaded in this repository)  
 - **Data Transformation** – Power Query & DAX  
 - **Deployment** – Power BI Service / Embedded Dashboard  
 
 ## **Dataset**
-This project includes a dataset file named **cosmetics.csv**, which contains sample data used in the dashboard. You can replace this file with your own dataset to customize the insights.
+This project includes a dataset file named **lead-data.csv**, which contains sample data used in the dashboard. You can replace this file with your own dataset to customize the insights.
 
 ## **How to Use**
 1. **Download the Power BI Report (.pbix file)** from the repository.
 2. Open it in **Power BI Desktop**.
-3. Connect your data source (lead.csv).
+3. Connect your data source (.csv file).
 4. Refresh the data and explore the interactive visuals.
-5. Publish to **Power BI Service** for web sharing.
 
 ## **Screenshot**
 ![lead_report](https://github.com/user-attachments/assets/bb8f3f77-de9a-4aae-8b9f-f5a51e0cda50)
